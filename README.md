@@ -30,3 +30,11 @@ pakages:
 In the bomberman directory run the gamefinal.py file(python gamefinal.py)
 
 runs on both linux and windows :p
+
+
+You can change :
+
+            grid size,
+            number of bots u want in the game,
+            player size
+            
