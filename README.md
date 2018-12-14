@@ -1,4 +1,5 @@
 Bomberman game
+
 -->Rules
 Played in a grid containing enemies which can be killed using bombs
 Enemies are able to kill the bomberman when they meet the Bomberman
