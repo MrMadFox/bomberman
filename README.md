@@ -18,6 +18,7 @@ pakages:
 's' for moving bomberman down
 'w' for moving bomberman up
 ' '(space) for plotting a bomb at the present position 
+
 -->playing
 In the bomberman directory run the gamefinal.py file(python gamefinal.py)
 runs on both linux and windows :p
